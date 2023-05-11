@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Orbital_imager_LRes_lib")(type "KiCad")(uri "${KIPRJMOD}/Orbital_imager_LRes_lib.pretty")(options "")(descr ""))
+)
